@@ -1,4 +1,7 @@
 # GIM-for-floor-plan-design-automation
+Author: Yi Xia
+Data: 2024-12-24
+
 
 Contents:
 
